@@ -2,7 +2,7 @@
 # my_tokarray
 
 ## Overview
-This project allows you to transform a string into an array of strings, based on specified separators. This project is written entirely in C.
+This program allows you to transform a string into an array of strings, based on specified separators. This program is written entirely in C.
 
 ## Features
 - **String to Array Transformation**: Easily convert a single string into an array of strings using specified separators with a single function call.
